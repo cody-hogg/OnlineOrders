@@ -57,24 +57,3 @@ h1, p{
     color:darkgray;
 }
 
-.lady1{
-    border:3px solid darkgray;
-    margin-left: 5px;
-    margin-right: 10px;
-    height:auto;
-    width:auto;
-    
-}
-
-.lady2{
-    border:3px solid darkgray;
-    margin-right: 5px;
-    margin-left: 10px;
-    height: auto;
-    width: auto;
-}
-
-.pics{
-    margin-left: 300px;
-}
-
